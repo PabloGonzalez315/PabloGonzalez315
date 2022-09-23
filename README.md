@@ -17,7 +17,8 @@ I am currently preparing as a full stack developer
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![GIT](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+![PYTHON](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=yellow)
+![DJANGO](https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=Django&logoColor=success)
 
 ## Contact me:
 
