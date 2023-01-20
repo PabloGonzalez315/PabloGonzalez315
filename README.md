@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Pablo González
-# I am a Full Stack web programmer, my beginnings were with WordPress and WooCommerce, and I have more than 7 years of experience in this CMS, I have done work independently, and currently, I work as SR Wordpress developer and React Developer in an agency in Argentina.
+I'm a Full Stack web programmer, my beginnings were with WordPress and WooCommerce, and I have more than 7 years of experience in this CMS, I have done work independently, and currently, I work as SR Wordpress developer and React Developer in an agency in Argentina.
 This GitHub is for my personal use, practices, and personal projects.
 
 ## Skills:
@@ -19,6 +19,7 @@ This GitHub is for my personal use, practices, and personal projects.
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=Python&logoColor=yellow)
 ![DJANGO](https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=Django&logoColor=success)
+
 
 ## Contact me:
 
