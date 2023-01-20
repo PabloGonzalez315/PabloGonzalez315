@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Pablo González
-#I'm a web developer in the process of training, passionate about programming, I changed my life and my professional career to dedicate myself to the It world in which I was always involved in a self-taught way.
-I am currently preparing as a full stack developer
+# I am a Full Stack web programmer, my beginnings were with WordPress and WooCommerce, and I have more than 7 years of experience in this CMS, I have done work independently, and currently, I work as SR Wordpress developer and React Developer in an agency in Argentina.
+This GitHub is for my personal use, practices, and personal projects.
 
 ## Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
